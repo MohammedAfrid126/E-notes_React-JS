@@ -17,6 +17,7 @@ The back-end of the app is built with Node.js and Express, and uses MongoDB for 
 ![App Screenshot](https://raw.github.com/MohammedAfrid126/E-notes_React-JS/master/web-view-2.jpg)
 ![App Screenshot](https://raw.github.com/MohammedAfrid126/E-notes_React-JS/master/web-view-3.jpg)
 ![App Screenshot](https://raw.github.com/MohammedAfrid126/E-notes_React-JS/master/web-view-4.jpg)
+![App Screenshot](https://raw.github.com/MohammedAfrid126/E-notes_React-JS/master/web-view-5.jpg)
 
 
 ## Run Locally
